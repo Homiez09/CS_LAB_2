@@ -12,9 +12,9 @@ int main()
     // printf("input -%s\n", str);
     // printf("%c", c);
 
-    // char str[10];
-    // fgets(str, 10, stdin);
-    // printf("out - %s", str);
+    char str[10];
+    fgets(str, 10, stdin);
+    printf("out - %s", str);
 
     // int i = atoi(str);
     // long l = atol(str);
