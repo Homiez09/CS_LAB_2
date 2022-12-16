@@ -1,6 +1,6 @@
 test.c
 
-*.exe
-*.out
+.exe
+.out
 
 .vscode
